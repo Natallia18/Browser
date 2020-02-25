@@ -1,0 +1,25 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natallia18/Browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^80.0.1",
+    "protractor": "^5.4.3",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "webdriver-manager": "^12.1.7"
+  },
+  "bugs": {
+    "url": "https://github.com/Natallia18/Browser/issues"
+  },
+  "homepage": "https://github.com/Natallia18/Browser#readme"
+}
